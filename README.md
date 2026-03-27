@@ -1,6 +1,6 @@
 # 🎓 Student Result Management System
 
-[cite_start]A robust, full-stack academic performance tracking system built with **C#**, **SQL Server**, and a modern **Web Dashboard**. This project demonstrates the use of **ADO.NET** for database operations, stored procedures for business logic, and a responsive frontend for data visualization.
+A robust, full-stack academic performance tracking system built with **C#**, **SQL Server**, and a modern **Web Dashboard**. This project demonstrates the use of **ADO.NET** for database operations, stored procedures for business logic, and a responsive frontend for data visualization.
 
 ---
 
